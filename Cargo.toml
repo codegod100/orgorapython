@@ -10,4 +10,4 @@ crate-type = ["cdylib"]
 
 [dependencies]
 pyo3 = "0.18.1"
-orgora = "0.1.0"
+orgora = "0.1.1"
